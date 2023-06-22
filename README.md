@@ -1,6 +1,7 @@
-# app-base
+# drf-base
 Basic Django-Rest-Framework Application including:
 * models
+* custom migration
 * serializers
 * function based views
 * class based views
